@@ -3,7 +3,7 @@ This is a repo contain a pytorch verison of EfficientDet, a STOA one stage model
 
 It contain the training module and video test module.
 
-## remark:
+## Remark:
 1. Currently, only support VOC format dataset.
 2. Included Storchastic weight average.
 3. Included the auto mAP evaluation module. If practitioners want to have a tailormake nms parameters,
