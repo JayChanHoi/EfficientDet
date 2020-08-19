@@ -1,0 +1,6 @@
+efficientnet_pytorch
+tensorboardX
+pycocotools
+pytorch
+torchvision
+opencv-python
