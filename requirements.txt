@@ -4,3 +4,4 @@ pycocotools
 pytorch
 torchvision
 opencv-python
+albumentations
